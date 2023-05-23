@@ -15,3 +15,7 @@ Pada materi pertama ini diharapkan dapat ;
   bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama)
   5. Gunakan merge no fast forward
   6. peserta mampu membuat flowchart untuk menyelesaikan masalah.
+
+### 2. Basic Programming (Variable, Operator, Logical, Loop, Function)
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu membuat program dengan golang untuk menyelesaikan masalah.
