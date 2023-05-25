@@ -19,3 +19,13 @@ Pada materi pertama ini diharapkan dapat ;
 ### 2. Basic Programming (Variable, Operator, Logical, Loop, Function)
 Pada materi pertama ini diharapkan dapat ;
   - peserta mampu membuat program dengan golang untuk menyelesaikan masalah.
+
+### 3. Data Structure Go (Array, Slice, Map)
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu membuat program dengan menggunakan data structure untuk
+menyelesaikan masalah.
+
+### 4. String, Advance Function, Pointer, Heap & Stack, Struct, Method, Interface, Garbage Collector, Package & Error Handling
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu membuat program dengan menerapkan advance function, poniter, struct, method, dan interface untuk menyelesaikan masalah.
+
