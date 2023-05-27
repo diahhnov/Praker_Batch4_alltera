@@ -11,9 +11,9 @@ func (c *Car) CalculateDistance() float64 {
 	flueEfek := 1.5 // liter per mill
 
 	//menghitung jarak perkiraan yang bisa ditempuh
-	jarak := c.FuelIn * flueEfek
+	distance := c.FuelIn * flueEfek
 
-	return jarak
+	return distance
 }
 
 func main() {
@@ -22,6 +22,6 @@ func main() {
 		FuelIn: 20,
 	}
 
-	jarak := car.CalculateDistance()
-	fmt.Printf("Perkiraan jarak yang bbisa ditempuh: %.2f km\n", jarak)
+	distance := car.CalculateDistance()
+	fmt.Printf("Perkiraan jarak yang bbisa ditempuh: %.2f km\n", distance)
 }
