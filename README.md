@@ -29,3 +29,7 @@ menyelesaikan masalah.
 Pada materi pertama ini diharapkan dapat ;
   - peserta mampu membuat program dengan menerapkan advance function, poniter, struct, method, dan interface untuk menyelesaikan masalah.
 
+### 5. Fundamental Rest API & OSI Layer
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu implementasi HTTP method (get, post, put, delete)
+
