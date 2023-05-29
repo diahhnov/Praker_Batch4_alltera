@@ -15,3 +15,21 @@ Pada materi pertama ini diharapkan dapat ;
   bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama)
   5. Gunakan merge no fast forward
   6. peserta mampu membuat flowchart untuk menyelesaikan masalah.
+
+### 2. Basic Programming (Variable, Operator, Logical, Loop, Function)
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu membuat program dengan golang untuk menyelesaikan masalah.
+
+### 3. Data Structure Go (Array, Slice, Map)
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu membuat program dengan menggunakan data structure untuk
+menyelesaikan masalah.
+
+### 4. String, Advance Function, Pointer, Heap & Stack, Struct, Method, Interface, Garbage Collector, Package & Error Handling
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu membuat program dengan menerapkan advance function, poniter, struct, method, dan interface untuk menyelesaikan masalah.
+
+### 5. Fundamental Rest API & OSI Layer
+Pada materi pertama ini diharapkan dapat ;
+  - peserta mampu implementasi HTTP method (get, post, put, delete)
+
